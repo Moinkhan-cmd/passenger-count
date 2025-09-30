@@ -15,4 +15,4 @@ Open `index.html` directly in your browser or serve the folder with any static w
 
 ## Preview
 
-![People Counter interface](screenshot.png)
+![People Counter interface](Screenshot.png)
